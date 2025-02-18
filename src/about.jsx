@@ -1,6 +1,6 @@
 import React from "react"
 import './style.css'
-import Icon from "./assets/Icon.png"
+import Icon from "./assets/icon.png"
 import Cursor from "./cursor"
 import {Link} from 'react-router-dom'
 
