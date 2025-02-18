@@ -310,8 +310,7 @@ function App() {
               repeat: Infinity,     // Infinite loop
               ease: "linear"        // Smooth consistent rotation
             }}
-          />
-          
+          /> 
         </div>
         <div className="Logo">
           <img src={Logo} alt="logo" />
