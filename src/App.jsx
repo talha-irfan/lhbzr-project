@@ -1,12 +1,12 @@
 
 import React from "react";
 import './style.css';
-import Logo from './assets/Logo.jpg';
+import Logo from './assets/logo.jpg';
 import { Link } from 'react-router-dom';
 import Cursor from "./cursor";
 import { useTypewriter, Cursor as TypewriterCursor } from 'react-simple-typewriter';
 import { motion } from "framer-motion";
-import Two from './assets/two.png'
+// import Two from './assets/two.png'
 import Three from './assets/three.png'
 
 function App() { 
