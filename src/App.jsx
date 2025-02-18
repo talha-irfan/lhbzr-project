@@ -311,6 +311,7 @@ function App() {
               ease: "linear"        // Smooth consistent rotation
             }}
           />
+          
         </div>
         <div className="Logo">
           <img src={Logo} alt="logo" />
