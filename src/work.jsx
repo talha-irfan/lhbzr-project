@@ -10,7 +10,7 @@ import img5 from './assets/slide5.jpg'
 import { Navigation, Pagination, Scrollbar, A11y,} from 'swiper/modules';  
 import { EffectFade } from 'swiper/modules';
 import Cursor from "./cursor"
-import Icon from "./assets/Icon.png"
+import Icon from "./assets/icon.png"
 import {Link} from 'react-router-dom'
 
 // import './work.css'

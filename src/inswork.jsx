@@ -1,6 +1,6 @@
 import React from "react";
 import Cursor from "./cursor";
-import Icon from "./assets/Icon.png"
+import Icon from "./assets/icon.png"
 import {Link} from 'react-router-dom'
 
 function Inwork(){
